@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Todo-list-Redux/static/css/main.71659877.css",
-    "main.js": "/Todo-list-Redux/static/js/main.d3fde4dd.js",
-    "static/media/img.jpg": "/Todo-list-Redux/static/media/img.52f7f9b1c0916d3405c6.jpg",
-    "index.html": "/Todo-list-Redux/index.html",
-    "main.71659877.css.map": "/Todo-list-Redux/static/css/main.71659877.css.map",
-    "main.d3fde4dd.js.map": "/Todo-list-Redux/static/js/main.d3fde4dd.js.map"
+    "main.css": "/Redux-Todo-List/static/css/main.9580011f.css",
+    "main.js": "/Redux-Todo-List/static/js/main.b68267fa.js",
+    "static/media/img.jpg": "/Redux-Todo-List/static/media/img.52f7f9b1c0916d3405c6.jpg",
+    "index.html": "/Redux-Todo-List/index.html",
+    "main.9580011f.css.map": "/Redux-Todo-List/static/css/main.9580011f.css.map",
+    "main.b68267fa.js.map": "/Redux-Todo-List/static/js/main.b68267fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.71659877.css",
-    "static/js/main.d3fde4dd.js"
+    "static/css/main.9580011f.css",
+    "static/js/main.b68267fa.js"
   ]
 }
